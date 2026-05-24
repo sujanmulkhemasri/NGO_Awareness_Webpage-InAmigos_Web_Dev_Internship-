@@ -1,0 +1,2 @@
+# NGO_Awareness_Webpage-InAmigos_Web_Dev_Internship-
+This web page is the first web page I have built using #html5 and #css3. This web page consists :1. What is NGO?  2.Social Services provided by NGOs  3.NGO's Organizations  4.Get Involved(Contact Details) . This web has been created from the actual images and text , and NGOs real Visions, Missions collected from the official Organizations websites.
