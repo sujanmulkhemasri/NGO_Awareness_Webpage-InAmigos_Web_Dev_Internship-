@@ -1,15 +1,46 @@
-# NGO_Awareness_Webpage-InAmigos_Web_Dev_Internship-
-This web page is the first web page I have built using #html5 and #css3. This web page consists :1. What is NGO?  2.Social Services provided by NGOs  3.NGO's Organizations  4.Get Involved(Contact Details) . This web has been created from the actual images and text , and NGOs real Visions, Missions collected from the official Organizations websites.
+# NGO_Awareness_Webpage-InAmigos_Web_Dev_Internship
+# NGO Awareness Webpage
 
-Project overview
-This page helps people to become aware about NGO organizations , it's visions and missions, it's work towards humanity in various aspects
+This webpage is the first webpage I have built using **HTML5** and **CSS3**.
 
-Technologies used
-HTML5
-CSS3
+## Webpage Sections
 
-Features
-Sticky Navigation Bar : includes main headings of the page to jump to the required area 
-Green environment on the page indicating NGO's vision in terms of environment 
-Images and text collected from the real websites instead of using AI
+1. What is NGO?
+2. Social Services provided by NGOs
+3. NGO Organizations
+4. Get Involved (Contact Details)
+
+This webpage was created using actual images, text, visions, and missions collected from official NGO websites instead of AI-generated content.
+
+---
+
+# Project Overview
+
+This page helps people become aware about NGO organizations, their visions, missions, and work towards humanity in various aspects.
+
+---
+
+# Technologies Used
+
+- HTML5
+- CSS3
+
+---
+
+# Features
+
+- Sticky Navigation Bar for quick section access
+- Green-themed environment representing NGO values and environmental awareness
+- Real images and organization content collected through research
+
+---
+
+# Learning Outcome
+
+This project helped me improve my understanding of:
+- webpage structure
+- styling using CSS
+- alignment and spacing
+- content organization
+- frontend basics
 
